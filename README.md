@@ -90,7 +90,7 @@ python eval.py
 ## Contributing
 Feel free to contribute by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated!
 
-For any inquiries or feedback, please contact [your-email@example.com].
+For any inquiries or feedback, please contact [jjoshi48@gatech.edu](jjoshi48@gatech.edu).
 
 ## Refrences
 Shaohui Lin, Rongrong Ji, Yuchao Li, Yongjian Wu, Feiyue Huang, and Baochang Zhang. 2018. Accelerating convolutional networks via global & dynamic filter pruning. In Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI'18). AAAI Press, 2425–2432.
